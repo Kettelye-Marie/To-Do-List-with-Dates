@@ -1,8 +1,9 @@
 # **To Do List Project Roadmap**
-- [x] Create Repository
-- [x] Create ReadMe file
+- [x] Accept KSU-IS invite
+- [ ] Decide on project idea
 - [x] Create Project Roadmap
 - [x] Find related repository
+- [ ] Fork 
 - [x] Test code to ensure it is similar to the planned project
 - [x] Evaluate related code to find what to use
 - [x] Begin work on project code using related code
@@ -11,6 +12,5 @@
 - [x] Get Dates to sort with the tasks
 - [x] Integrate sorting the list by Date
 - [x] Learn and integrate how to save the state of the todo list
-- [x] Prepare splash page for presentation
 - [ ] Prepare presentation
 - [ ] Present project
